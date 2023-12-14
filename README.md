@@ -14,10 +14,14 @@ This repository contains JavaScript code to create a linked list, reverse it, an
    git clone https://github.com/akhilbolla18/task1-emo
 
 2. Navigate to the project directory:
-  cd task1-emo
 
+   ```bash
+   cd task1-emo
 3. Run the JavaScript code:
+
+   ```bash
    node task1.js
+
 
 This will execute the program, creating a linked list, reversing it, and finding the second largest number.
 
